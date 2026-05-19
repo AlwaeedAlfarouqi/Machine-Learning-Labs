@@ -1,3 +1,3 @@
 # Machine-Learning-Labs
 
-Lab 10
+Lab 10 . 
